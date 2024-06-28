@@ -1,5 +1,5 @@
 import {ObjectId} from "mongoose";
-import {HotelRoom} from "../../hotel_rooms/interfaces/schemas/hotelRoom.schema";
+import {HotelRoom} from "./schemas/hotelRoom.schema";
 import {SearchHotelRoomsDto} from "./dto/search-hotel-rooms.dto";
 import {CreateHotelRoomDto} from "./dto/create-hotel-room.dto";
 
